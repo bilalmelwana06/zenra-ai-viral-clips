@@ -1,0 +1,16 @@
+{
+  "version": "3.0",
+  "url": "https://github.com/bilalmelwana06/zenra-ai-viral-clips/releases/download/v3.0/ZenraAIViralClips.exe",
+  "sha256": "57428a34345e0557ed2de83e9e7a80c398a8056816bc4a3b3a8c5a7b96154ae7",
+  "size": 228991463,
+  "notes": [
+    "Version 3.0 — the camera now follows the action: the player, then the ball after the shot, with no jumping between zoomed and whole-picture views",
+    "Faces are never cut: the hook title and the scorecard move away from every head",
+    "Golf scorecards and score graphics stay on the clip; videos without talking give action clips, not made-up captions",
+    "Every clip size: 9:16 (Reels, TikTok, Shorts), 4:5 and 1:1 (feed posts), 16:9 (YouTube, X, LinkedIn)",
+    "More AI choices in two sections: free keys (Groq, Gemini, Cerebras, Mistral, OpenRouter free models) and paid keys (ChatGPT, Claude, DeepSeek, Grok, OpenRouter)",
+    "AI finds every viral moment in long videos; group podcasts follow whoever is talking, with split screen for conversations",
+    "Hook title on the clip (3 looks) and 8 caption styles with word-by-word captions, AI titles, 4K quality and your logo",
+    "Same video gives the same clips again without the AI wait; sponsor ads are never clipped"
+  ]
+}
